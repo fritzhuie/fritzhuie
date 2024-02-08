@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm a gaming industry veteran and full stack developer. I'm currently working on dungeon crawler card battler, and completing a full stack development at General Assembly.
+I'm a gaming industry veteran, and full stack developer.
+
+I'm currently working on a dungeon crawler card game called Generative Adversaries.
 
 I'm looking to collaborate on social expriences, games, and other fun projects!
 
