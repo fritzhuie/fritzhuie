@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm a gaming industry veteran and full stack developer. I'm currently working on dungeon crawler card battler, and completing a full stack development at General Assembly.
+
+I'm looking to collaborate on social expriences, games, and other fun projects!
+
 <!--
 **fritzhuie/fritzhuie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
