@@ -1,6 +1,6 @@
 ### Hi there, I'm a gaming industry veteran, and full stack developer.
 
-I'm currently working on a dungeon crawler card game called Generative Adversaries, looking to collaborate on social expriences, games, and other fun projects!
+I'm working on a dungeon crawler card game called Generative Adversaries, looking to collaborate on social expriences, games, and other fun projects!
 
 <!--
 **fritzhuie/fritzhuie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
