@@ -1,4 +1,4 @@
-### Hi there, I'm a gaming industry veteran, and full stack developer.
+### Hi there, I'm an iOS and full stack web developer, and gaming industry veteran.
 
 I'm working on a dungeon crawler card game called Generative Adversaries, looking to collaborate on social expriences, games, and other fun projects!
 
