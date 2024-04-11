@@ -1,4 +1,4 @@
-### Hi I'm Fritz, a mobile/full stack developer and gaming industry veteran.
+#### Hi I'm Fritz, a mobile/full stack developer and gaming industry veteran
 
 <!--
 **fritzhuie/fritzhuie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
